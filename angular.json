@@ -102,5 +102,8 @@
       }
     }
   },
-  "defaultProject": "RestaurentApp"
+  "defaultProject": "RestaurentApp",
+  "cli": {
+    "analytics": false
+  }
 }
